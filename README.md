@@ -23,3 +23,8 @@
 4. I expect each team member will weigh in to share their thoughts on a decision or task at hand, and carry out the part of the work assigned to them. I also expect that when work is completed, others are notified before a push is made, especially if a conflict might arise. In return, I will do the same.
 
 ### Jay
+Primary responsibility: Front-end/Website/JS
+
+I leave it up to consensus any additional responsibilities that I must incur over the length of the project. Outside of my primary responsibility, I plan to aid wherever possible if there is more pressing work. If I am not performing such, I request my team members to contact me and discuss it.
+
+I will keep my participation a high priority and keep regular communication with my team members. If I am to be absent in a scheduled meeting I will inform everyone via SMS and later be filled in about the meeting.
