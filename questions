@@ -1,6 +1,11 @@
+MAIN:
+  current workflow?
+  ideal workflow?
+
 are committee members different from professors?
 how are the professors informed to write for whom?
-microsoft form for students? (how should students submit files?)
-role of the committee?
-current workflow?
-ideal workflow?
+role of the committee? (i.e. their user stories)
+do we or they migrate the existing data?
+
+  microsoft form for students? (how should students submit files?)
+  level of authentication for students?
