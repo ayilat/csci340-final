@@ -12,6 +12,13 @@
 4. If I take on tasks and commitments in the project, I will complete them to the best of my ability, and within a punctual timeframe.
 
 ### Hays
+1. I will be present and assist in the planning of every meeting. If I cannot make it, I will communicate this ahead of time and notify my team of my efforts outside of the meeting.
+
+2. I have a responsibility to work to my best efforts and be honest with my teammates about what I am and am not capable of.
+
+3. I will communicate actively through Teams and SMS. Regardless of platform, I will do what is necessary to stay in contact with my team.
+
+4. If I take on tasks for the team, I will complete them as best as I can. If I am unable to, I will communicate and ask for help rather than postponing the work.
 
 ### Jack
 1. Participation: I intend to be present at every meeting, barring some sort of sudden and immovable time committment.
