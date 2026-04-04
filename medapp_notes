@@ -1,0 +1,23 @@
+Chair (admins: simmons/dr. kett):
+    add/remove faculty
+    promote/demote from committee/faculty
+    set open/close deadlines
+    manually open/close the deadline state
+    send all written recommendations to the appropriate institutions
+    (+ everything from committee)
+
+Committee (rotating):
+    view the entire database
+    edit letters of rec.
+    (+ everything from evaluator)
+
+Evaluator (hdx instructors & coaches):
+    view all packets with an invitation for them
+    add/edit own packet evaluations
+
+Student (mostly juniors to recent alumni):
+    submit packet
+    receive email confirmation when their letter of rec. is sent
+
+question: is writing recommendation letters collaborative? should committee members be able
+to see and/or edit every recommendation letters?
