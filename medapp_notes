@@ -6,7 +6,7 @@ Chair (admins: simmons/dr. kett):
     send all written recommendations to the appropriate institutions
     (+ everything from committee)
 
-Committee (rotating):
+Committee (rotating among nat. science profs):
     view the entire database
     edit letters of rec.
     (+ everything from evaluator)
@@ -21,3 +21,6 @@ Student (mostly juniors to recent alumni):
 
 question: is writing recommendation letters collaborative? should committee members be able
 to see and/or edit every recommendation letters?
+
+question: do non-instructor, hendrix-internal evaluators complete the same form that instructor evaluators do?
+i.e., should coaches automatically be emailed to complete the eval. form too?
