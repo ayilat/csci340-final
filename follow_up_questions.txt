@@ -1,0 +1,5 @@
+1. Do we migrate existing data?
+2. How do committee members write letters?  Collaborative and simultaneous?
+3. How is the student information PDF created and transmitted?
+4. How do students recieve the form where they input their documents to build their information PDF?
+5. How is evaluator feedback for each student gathered, collated, and transmitted?
