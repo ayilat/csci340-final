@@ -1,0 +1,16 @@
+Client mission:
+- Make notebook for professor x
+- Six students select professor x as evaluator
+- Students and their documents (cv, transcript, etc.) added to each evaluator notebook
+- evaluator evaluates each student in evalution form
+- forms filled out for each student (across all evaluators) are collated together for committee consideration
+- committee writes a letter based on the body of collated forms
+
+- MISSION: get student information, provide it to evaluators, collect evaluator forms, and write recommendation letters for each student.
+
+Needs:
+- automate notebook making process
+  - automatically adding students to the notebook of each evaluator they select
+  - automatically aggreggate evaluator forms per student
+  - send aggregated body of form outputs to committee for letter writing process
+- automate email sending and processing
