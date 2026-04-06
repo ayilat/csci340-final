@@ -6,7 +6,7 @@ Client mission:
 - forms filled out for each student (across all evaluators) are collated together for committee consideration
 - committee writes a letter based on the body of collated forms
 
-- MISSION: get student information, provide it to evaluators, collect evaluator forms, and write recommendation letters for each student.
+- MISSION: get student information, provide it to evaluators, condense evaluator forms, and write recommendation letters for each student.
 
 Needs:
 - Automate the experience of putting together evaluation forms for evaluators.
