@@ -3,6 +3,6 @@
 3. How is the student information PDF created and transmitted?
 4. How do students recieve the form where they input their documents to build their information PDF?
 5. How is evaluator feedback for each student gathered, collated, and transmitted?
-
+6. Where does the student input data (cv, transcript, etc.) go before it is used to build said student's "info pdf"?
 
 Jay--Is every nat. science professor really notified? Form suggests differently
