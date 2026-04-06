@@ -9,8 +9,6 @@ Client mission:
 - MISSION: get student information, provide it to evaluators, collect evaluator forms, and write recommendation letters for each student.
 
 Needs:
-- automate notebook making process
-  - automatically adding students to the notebook of each evaluator they select
-  - automatically aggreggate evaluator forms per student
-  - send aggregated body of form outputs to committee for letter writing process
-- automate email sending and processing
+- Automate the experience of putting together evaluation forms for evaluators.
+- Automate having finished evaluator forms appear for committee members per student.
+- Automate email sending and processing
