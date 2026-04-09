@@ -6,3 +6,4 @@
 6. Where does the student input data (cv, transcript, etc.) go before it is used to build said student's "info pdf"?
 
 Jay--Is every nat. science professor really notified? Form suggests differently
+Jay--We need to know what process Simmons uses to send the LoRs. Is it even possible to automate?
