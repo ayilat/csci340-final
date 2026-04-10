@@ -8,3 +8,4 @@
 Jay--Is every nat. science professor really notified? Form suggests differently
 Jay--We need to know what process Simmons uses to send the LoRs. Is it even possible to automate?
 Jay--Confirm that "Med App" is a good name. (i.e. would it conflict with anything else?)
+(after mockups class trading)--Is it important that students be able to view their past packets?
