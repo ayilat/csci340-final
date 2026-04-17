@@ -1,14 +1,14 @@
 1. Do we migrate existing data?
 2. How do committee members write letters?  Collaborative and simultaneous?
-3. How is the student information PDF created and transmitted?
-4. How do students recieve the form where they input their documents to build their information PDF?
-5. How is evaluator feedback for each student gathered, collated, and transmitted?
-6. Where does the student input data (cv, transcript, etc.) go before it is used to build said student's "info pdf"?
+        3. How is the student information PDF created and transmitted?
+        4. How do students recieve the form where they input their documents to build their information PDF?
+        5. How is evaluator feedback for each student gathered, collated, and transmitted?
+        6. Where does the student input data (cv, transcript, etc.) go before it is used to build said student's "info pdf"?
 
 Jay--Is every nat. science professor really notified? Form suggests differently
 Jay--We need to know what process Simmons uses to send the LoRs. Is it even possible to automate?
 Jay--Confirm that "Med App" is a good name. (i.e. would it conflict with anything else?)
-(after mockups class trading)--Is it important that students be able to view their past packets?
+(after mockups class trading)--Is it important that students be able to view their past packets? (maybe, low prio)
 
 Do we want an actual homepage or should we instantly try to log them in? Or just a page that says "Please log in with Hendrix?"
-Are all evaluators going to have a Hendrix email?
+Are all evaluators going to have a Hendrix email? (yes)
